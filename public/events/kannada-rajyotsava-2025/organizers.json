@@ -1,0 +1,20 @@
+[
+  {
+    "id": "org-1",
+    "name": "Dr. Raghavendra",
+    "role": "Faculty Advisor",
+    "avatar": "/events/kannada-rajyotsava-2025/organizers/raghavendra.jpg"
+  },
+  {
+    "id": "org-2",
+    "name": "Karthik Gowda",
+    "role": "Student Coordinator",
+    "avatar": "/events/kannada-rajyotsava-2025/organizers/karthik.jpg"
+  },
+  {
+    "id": "org-3",
+    "name": "Ananya Bhat",
+    "role": "Cultural Secretary",
+    "avatar": "/events/kannada-rajyotsava-2025/organizers/ananya.jpg"
+  }
+]

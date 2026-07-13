@@ -1,0 +1,50 @@
+[
+  {
+    "id": "std-1",
+    "name": "Karthik Gowda",
+    "role": "President & Co-founder",
+    "photo": "/contributors/students/photos/std-1.jpg",
+    "linkedin": "https://linkedin.com/in/placeholder-karthik",
+    "instagram": "https://instagram.com/placeholder-karthik"
+  },
+  {
+    "id": "std-2",
+    "name": "Ananya Bhat",
+    "role": "Cultural Secretary",
+    "photo": "/contributors/students/photos/std-2.jpg",
+    "linkedin": "https://linkedin.com/in/placeholder-ananya",
+    "instagram": "https://instagram.com/placeholder-ananya"
+  },
+  {
+    "id": "std-3",
+    "name": "Darshan H.R.",
+    "role": "Webmaster & Tech Lead",
+    "photo": "/contributors/students/photos/std-3.jpg",
+    "linkedin": "https://linkedin.com/in/placeholder-darshan",
+    "instagram": "https://instagram.com/placeholder-darshan"
+  },
+  {
+    "id": "std-4",
+    "name": "Meghana Rao",
+    "role": "Content & Editorial Lead",
+    "photo": "/contributors/students/photos/std-4.jpg",
+    "linkedin": "https://linkedin.com/in/placeholder-meghana",
+    "instagram": "https://instagram.com/placeholder-meghana"
+  },
+  {
+    "id": "std-5",
+    "name": "Pranav Shastry",
+    "role": "Events Coordinator",
+    "photo": "/contributors/students/photos/std-5.jpg",
+    "linkedin": "https://linkedin.com/in/placeholder-pranav",
+    "instagram": "https://instagram.com/placeholder-pranav"
+  },
+  {
+    "id": "std-6",
+    "name": "Sahana Patil",
+    "role": "Social Media Manager",
+    "photo": "/contributors/students/photos/std-6.jpg",
+    "linkedin": "https://linkedin.com/in/placeholder-sahana",
+    "instagram": "https://instagram.com/placeholder-sahana"
+  }
+]

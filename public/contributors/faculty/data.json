@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fac-1",
+    "name": "Dr. Raghavendra",
+    "role": "Professor & Primary Advisor",
+    "photo": "/contributors/faculty/photos/fac-1.jpg",
+    "linkedin": "https://linkedin.com/in/placeholder-raghavendra",
+    "email": "raghavendra@admin.iitd.ac.in"
+  },
+  {
+    "id": "fac-2",
+    "name": "Dr. Sunita K.M.",
+    "role": "Associate Professor & Co-advisor",
+    "photo": "/contributors/faculty/photos/fac-2.jpg",
+    "linkedin": "https://linkedin.com/in/placeholder-sunita",
+    "email": "sunita.km@dese.iitd.ac.in"
+  },
+  {
+    "id": "fac-3",
+    "name": "Prof. Manjunath Swamy",
+    "role": "Emeritus Professor & Advisor",
+    "photo": "/contributors/faculty/photos/fac-3.jpg",
+    "linkedin": "https://linkedin.com/in/placeholder-manjunath",
+    "email": "mswamy@iitd.ac.in"
+  }
+]
